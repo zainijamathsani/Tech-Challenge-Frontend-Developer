@@ -21,7 +21,7 @@ interactive (TTI).
 
 ## JSON Endpoint:
 
-[The app must have following abilities:](https://dummyjson.com/docs/products)
+[https://dummyjson.com/docs/products:](https://dummyjson.com/docs/products)
 
 ## Nice to have
 
@@ -80,7 +80,7 @@ https://drive.google.com/file/d/1bFihbj1NKtVIMZnKQ2hXD1X6tqpguw1W/view?usp=shari
 
 ## Screenshots
 
-https://raw.githubusercontent.com/zainijamathsani/Tech-Challenge-Frontend-Developer/refs/heads/main/screen_shot.png
+![Screenshot](https://raw.githubusercontent.com/zainijamathsani/Tech-Challenge-Frontend-Developer/refs/heads/main/screen_shot.png)
 
 Thank You
 <br /><br />
