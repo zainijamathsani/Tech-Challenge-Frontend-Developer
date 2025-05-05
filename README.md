@@ -63,7 +63,7 @@ interactive (TTI).
 
 ### Step 1
 
-- Run this command `git clone https://github.com/zaiidleader/Initial-Test.git`
+- Run this command `git clone https://github.com/zainijamathsani/Tech-Challenge-Frontend-Developer.git`
 - Make sure that you are in the root directory of the project, use pwd or cd for windows
 - `cd ReactCart`
 - for android `npm install`
@@ -76,11 +76,11 @@ interactive (TTI).
 
 ## Link APK
 
-https://drive.google.com/file/d/1ga4KxaXdZmYgisVZO-kvat5Qzyl49hwD/view?usp=sharing
+https://drive.google.com/file/d/1bFihbj1NKtVIMZnKQ2hXD1X6tqpguw1W/view?usp=sharing
 
 ## Screenshots
 
-![Screenshot](https://github.com/zaiidleader/Initial-Test/assets/1024623/786930f2-f8af-49a0-8c1f-1a9351e4c0fc)
+https://raw.githubusercontent.com/zainijamathsani/Tech-Challenge-Frontend-Developer/refs/heads/main/screen_shot.png
 
 Thank You
 <br /><br />
