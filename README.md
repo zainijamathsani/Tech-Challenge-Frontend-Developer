@@ -1,97 +1,92 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Tech Challenge : Frontend Developer
 
-# Getting Started
+Task
+Details: Create an application that displays a list of products retrieved from a RESTful
+API provided below. Each product should display the title, description, price and a
+picture of the product. If you click on it, it will take you to the product details page and
+can add that product to the cart.
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+## Requirements
 
-## Step 1: Start Metro
+UI Reference
 
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
+- Product category tabs
+- List of products based on category
+- In the shopping cart screen we can checkout by selecting custom quantity and
+  <br />item, show the checkout resume with bottom sheet
 
-To start the Metro dev server, run the following command from the root of your React Native project:
+It is important to use one or more methods to reduce loading times, and relevant sub-
+metrics such as time to first byte (TTFB), first contentful paint (FCP), and time to
+interactive (TTI).
 
-```sh
-# Using npm
-npm start
+## JSON Endpoint:
 
-# OR using Yarn
-yarn start
-```
+[The app must have following abilities:](https://dummyjson.com/docs/products)
 
-## Step 2: Build and run your app
+## Nice to have
 
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
+- Search function
+- Set favorite function
 
-### Android
+## Technical Stack
 
-```sh
-# Using npm
-npm run android
+- Javascript ES6
+- React Native 0.79.0
+- Modal 14.0.0
+- Redux 9.2.0
+- Redux Toolkit 2.7.0
+- Lucide (for icon)
+- Get Location 2.2.1
+- Linear Gradient 2.6.2
+- Shimmer Placeholder 2.0.6
+- Axios 0.18.0
 
-# OR using Yarn
-yarn android
-```
+## Technical Specs
 
-### iOS
+- Typescript, React Native, cli not expo
+- List of products page, product detail page and shopping cart
+- Using state management (eg: redux toolkit)
+- One or more methods to reduce loading times
 
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
+## Scoring
 
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
+- Creativity
+- Detail
+- Imagination
+- Problem Solving
+- Code Quality
+- Best practice
+- UX UI Fundamental
+- Quality of deliverable
 
-```sh
-bundle install
-```
+## Run Locally
 
-Then, and every time you update your native dependencies, run:
+### Step 1
 
-```sh
-bundle exec pod install
-```
+- Run this command `git clone https://github.com/zaiidleader/Initial-Test.git`
+- Make sure that you are in the root directory of the project, use pwd or cd for windows
+- `cd ReactCart`
+- for android `npm install`
+- for ios `npm install` and cd ios `arch -x86_64 pod install` for MacBook M1 or `pod install` not M1
 
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
+### Step 2
 
-```sh
-# Using npm
-npm run ios
+- Run `npx react-native run-android` for android
+- Run `npx react-native run-ios` for ios
 
-# OR using Yarn
-yarn ios
-```
+## Link APK
 
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
+https://drive.google.com/file/d/1ga4KxaXdZmYgisVZO-kvat5Qzyl49hwD/view?usp=sharing
 
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
+## Screenshots
 
-## Step 3: Modify your app
+![Screenshot](https://github.com/zaiidleader/Initial-Test/assets/1024623/786930f2-f8af-49a0-8c1f-1a9351e4c0fc)
 
-Now that you have successfully run the app, let's make changes!
-
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
-
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
-
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+Thank You
+<br /><br />
+Best Regards<br />
+Zaini Jamathsani
+<br /><br />
+Mobile Apps Developer<br />
+Email : dleader.zaii@gmail.com<br />
+Phone : +6285694084870
